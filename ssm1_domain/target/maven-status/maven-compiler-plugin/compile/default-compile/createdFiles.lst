@@ -1,0 +1,9 @@
+com\yty\ssm\domain\Member.class
+com\yty\ssm\domain\Traveller.class
+com\yty\ssm\domain\UserInfo.class
+com\yty\ssm\domain\Product.class
+com\yty\ssm\domain\SysLog.class
+com\yty\ssm\domain\Orders.class
+com\yty\ssm\domain\PhoneCode.class
+com\yty\ssm\domain\Permission.class
+com\yty\ssm\domain\Role.class
